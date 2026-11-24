@@ -1,0 +1,62 @@
+[
+  {
+    "Name": "One Piece",
+    "Category": "Adventure",
+    "Price": 19.99,
+    "Author": "Eiichiro Oda"
+  },
+  {
+    "Name": "Naruto",
+    "Category": "Action",
+    "Price": 14.99,
+    "Author": "Masashi Kishimoto"
+  },
+  {
+    "Name": "Bleach",
+    "Category": "Action",
+    "Price": 24.99,
+    "Author": "Tite Kubo"
+  },
+  {
+    "Name": "Attack on Titan",
+    "Category": "Dark Fantasy",
+    "Price": 29.99,
+    "Author": "Hajime Isayama"
+  },
+  {
+    "Name": "Death Note",
+    "Category": "Mystery",
+    "Price": 12.99,
+    "Author": "Tsugumi Ohba"
+  },
+  {
+    "Name": "Jujutsu Kaisen",
+    "Category": "Action",
+    "Price": 17.99,
+    "Author": "Gege Akutami"
+  },
+  {
+    "Name": "Dragon Ball",
+    "Category": "Adventure",
+    "Price": 34.99,
+    "Author": "Akira Toriyama"
+  },
+  {
+    "Name": "Demon Slayer",
+    "Category": "Action",
+    "Price": 21.99,
+    "Author": "Koyoharu Gotouge"
+  },
+  {
+    "Name": "Berserk",
+    "Category": "Dark Fantasy",
+    "Price": 39.99,
+    "Author": "Kentaro Miura"
+  },
+  {
+    "Name": "Hajime no Ippo",
+    "Category": "Sports",
+    "Price": 16.99,
+    "Author": "George Morikawa"
+  }
+]
